@@ -1,12 +1,1 @@
-HTML assignment 
-Name-Atharav Agale 
-1)->In HTML, inline elements are elements that do not start on a new line and only take up as much width as necessary, such as <span> or <strong>. Block elements, on the other hand, start on a new line and take up the full width available, such as <div> or <p>. The key difference between them lies in their default behavior regarding line breaks and width occupation within the document's layout.
 
-2)-> Working with images in HTML involves using the <img> tag, which is an important element for displaying images on a webpage. To include an image, you specify the src attribute to indicate the image file's URL or path, and optionally, you can provide attributes like alt for alternative text, width and height for dimensions, and title for additional information or tooltips.
-
-3)-><ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ul>
-4)-> Hyperlinks in HTML are created using the <a> (anchor) tag. To link to other web pages, you specify the URL in the href attribute. Additionally, you can provide a descriptive text between the opening and closing <a> tags to serve as the clickable link text. 
