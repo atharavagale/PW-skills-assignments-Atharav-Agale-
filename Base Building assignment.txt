@@ -1,0 +1,13 @@
+Base Building assignment 
+Name-Atharav Agale 
+1. Is the Internet? Explain in your own words.
+->The Internet is a global network of interconnected computers and devices that communicate  standardized protocols. It allows users to access and share information, communicate with others, and access various online services and resources.
+2. Is the web browser? Explain in your own words.
+->A web browser is a software application that allows users to access and view web pages on the World Wide Web. It interprets HTML documents, CSS stylesheets, and JavaScript code to render web pages visually for users to interact with.
+3. Is the browser engine? Explain in your own words.
+->A browser engine is the core software component of a web browser responsible for rendering web pages. It interprets HTML, CSS, and JavaScript code received from web servers and displays the content visually to users.
+4. Is the sic sie? Explain in your own words.
+->A static site is a website that consists of fixed content and displays the same information to all users. It typically uses HTML and CSS to present content without any dynamic elements or server-side processing.
+5. Is the dynamic site? Explain in your own words.
+->A dynamic site is a website that generates content dynamically based on user interactions, database queries, or other external factors. It often utilizes server-side scripting languages like PHP, Python, or JavaScript to generate web pages with customized content for each user.
+
