@@ -1,0 +1,22 @@
+Atharav Agale
+Assignment-Database assignment
+1. What is a Database? Explain with an example on why should we need a database.
+A: A database is a structured collection of data organized and stored in a way that enables efficient retrieval, updating, and management of information. It provides a centralized location for storing and managing data, allowing multiple users to access and manipulate data concurrently. For example, a company may use a database to store employee information, customer records, and product inventory, facilitating easy retrieval and analysis of data.
+
+2. Write a short note on File-Based Storage System. Explain the major challenges of a File-Based Storage System.
+A: File-Based Storage System is a traditional approach to storing data where each application creates and manages its own data files. However, it lacks data independence, data redundancy, and data inconsistency. Major challenges include difficulty in data sharing, limited data security, lack of data integrity, and scalability issues.
+
+3.What is DBMS? What was the need for DBMS?
+A: DBMS (Database Management System) is software that facilitates the creation, organization, retrieval, and manipulation of data in databases. The need for DBMS arose due to the limitations of the traditional file-based approach, such as data redundancy, inconsistency, and difficulty in data sharing and manipulation.
+
+4. Explain the challenges of file-based storage system which was tackled by DBMS.
+A: Challenges of file-based storage systems include data redundancy, inconsistency, lack of data integrity, difficulty in data sharing, limited data security, and scalability issues. DBMS addresses these challenges by providing features such as data independence, data integrity, concurrency control, security mechanisms, and scalability.
+
+5.What are the different types of classification in DBMS and explain them in depth.
+A: In DBMS, classification types include hierarchical, network, relational, object-oriented, and NoSQL databases. Hierarchical databases organize data in a tree-like structure, network databases use a graph structure, relational databases organize data in tables with relationships, object-oriented databases store data as objects, and NoSQL databases provide flexible schemas for unstructured data.
+
+6.What is the significance of Data Modeling and explain the types of data modeling.
+A: Data modeling is the process of creating a conceptual representation of data and its relationships within a database. It helps in understanding and organizing complex data structures. Types of data modeling include conceptual modeling, logical modeling, and physical modeling, each focusing on different aspects of data representation and organization.
+
+7.Explain 3-schema architecture along with its advantages.
+A: 3-schema architecture, also known as ANSI/SPARC architecture, consists of three levels: external schema, conceptual schema, and internal schema. External schema represents the user's view of the data, conceptual schema represents the organization-wide view, and internal schema represents the physical storage structure. Its advantages include data independence, security, and flexibility in database design and management.
