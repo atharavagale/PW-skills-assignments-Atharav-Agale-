@@ -1,0 +1,10 @@
+Atharav Agale
+Assignment-Mobile Responsive and position Assignment
+Q: What are media queries in CSS and their use?
+A: A: Media queries in CSS allow developers to apply different styles based on characteristics of the device, such as screen size, resolution, or orientation. They enable responsive web design by adapting layouts and styles to different devices, ensuring optimal viewing experiences across various screen sizes and devices.
+
+Q: Difference between min-width and max-width in media queries in CSS?
+A: A: In media queries, "min-width" specifies the minimum viewport width at which the styles will be applied, while "max-width" specifies the maximum viewport width. "min-width" is used to apply styles for screens larger than or equal to a certain width, whereas "max-width" is used to apply styles for screens smaller than or equal to a certain width.
+
+Q: Explain float property and clear property in CSS with examples.
+A: A: The "float" property in CSS is used to align elements horizontally within their container, allowing them to float to the left or right. For example, setting "float: left;" on an element will align it to the left within its container. The "clear" property is used to control the behavior of elements that come after floated elements. For instance, "clear: both;" ensures that no elements are allowed to float on either side of the cleared element.
