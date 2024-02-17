@@ -1,0 +1,12 @@
+
+1.Why do we start learning a programming language with "Hello World!"?
+->Starting with "Hello World!" allows beginners to understand the basic syntax and structure of a programming language. It's a simple yet fundamental exercise that introduces concepts like outputting text and executing code, providing a foundation for further learning and exploration.
+
+2.How is the use of comments and how do you write comments in HTML?
+->Comments in HTML are used to annotate code for clarity and documentation without affecting the output. They're written between <!-- and -->. Comments help developers explain code, make notes, or temporarily disable portions of code for testing or debugging purposes.
+
+3.What are elements, tags, and attributes and the difference between them?
+->In HTML, elements are the building blocks of a webpage, defined by opening and closing tags. Tags denote the beginning and end of an element, enclosing content. Attributes provide additional information about elements, such as IDs or classes, enhancing their behavior or appearance.
+
+4.Briefly explain what HTML entities are.
+->HTML entities are special characters represented by codes or entities (e.g., & for &, < for <) to ensure proper rendering and interpretation in web browsers. They are used to display reserved characters, symbols, or characters with special meaning in HTML without causing parsing errors or unintended effects.
