@@ -1,0 +1,13 @@
+Name-Atharav Agale
+Assignment-HTML assignment
+1.What is a table and its properties?
+A: A table in HTML is a structured way to display data in rows and columns. Its properties include attributes such as border, cellspacing, and cellpadding to control spacing and appearance. Additionally, the <th> element defines header cells, while <tr> represents rows, and <td> represents data cells within the table.
+
+2.Explain all Media elements and how they work.
+A: Media elements in HTML include <img> for images, <audio> for audio files, and <video> for video files. They work by embedding multimedia content directly into web pages, allowing users to view or listen to media without needing external players. Each element has attributes to specify the source and control playback options.
+
+3.What is GET and POST in forms?
+A: GET and POST are HTTP methods used to send form data to a web server. GET appends form data to the URL as query parameters, visible to users and limited in size, suitable for retrieving data. POST sends form data in the body of the HTTP request, suitable for sensitive or large data as it's not visible in the URL.
+
+4.List all the input types we have in forms.
+A: Common input types in HTML forms include text, password, email, number, checkbox, radio, date, and submit. Each input type serves a different purpose, allowing users to enter various types of data such as text, numbers, dates, or make selections through checkboxes and radio buttons.
