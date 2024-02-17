@@ -1,0 +1,31 @@
+Atharav Agale
+Assignment-RDMS Assignment
+Q1. What is RDBMS? Why do industries use RDBMS?
+A1. RDBMS (Relational Database Management System) is a software system that enables the creation, organization, and management of relational databases. Industries use RDBMS because it provides a structured and efficient way to store, retrieve, and manage data, ensuring data integrity, security, and scalability.
+
+Q2. Explain the relationship data model in depth.
+A2. The relationship data model represents data in the form of entities and their relationships. Entities are represented as tables, and relationships between entities are established through keys. It enforces integrity constraints and ensures data consistency by defining relationships such as one-to-one, one-to-many, and many-to-many.
+
+Q3. What is the importance of Relationships in a Database management system? Explain the types of relationships.
+A3. Relationships in a database management system are crucial for organizing and structuring data effectively. Types of relationships include one-to-one, where each record in one table is related to only one record in another table, one-to-many, where each record in one table is related to multiple records in another table, and many-to-many, where multiple records in one table are related to multiple records in another table.
+
+Q4. Explain the different types of Keys in RDBMS considering a real-life scenario.
+A4. Keys in RDBMS include primary keys, unique keys, foreign keys, and candidate keys. In a real-life scenario, consider a customer database where the customer's email address serves as a unique key to identify each customer, ensuring that each email address is unique and allowing efficient retrieval of customer information.
+
+Q5. Write a short note on Single Responsibility Principle.
+A5. Single Responsibility Principle (SRP) states that a class should have only one reason to change, meaning it should have only one responsibility or function. This principle helps in maintaining code clarity, reusability, and modularity by ensuring that each class is focused on a single task or responsibility.
+
+Q6. Explain the different types of errors that could arise in a denormalized database.
+A6. Errors in a denormalized database can include data redundancy, where the same data is stored multiple times, leading to inconsistency. It can also lead to update anomalies, where updating data in one place may cause inconsistencies in other places. Additionally, denormalization can result in poor performance and increased storage requirements.
+
+Q7. What is normalization and what is the need for normalization?
+A7. Normalization is the process of organizing data in a database to reduce redundancy and dependency, thereby improving data integrity and efficiency. The need for normalization arises to eliminate data anomalies, ensure data consistency, and simplify data maintenance and modification.
+
+Q8. List out the different levels of Normalization and explain them in detail.
+A8. The different levels of normalization include First Normal Form (1NF), Second Normal Form (2NF), Third Normal Form (3NF), Boyce-Codd Normal Form (BCNF), and Fourth Normal Form (4NF). Each level aims to eliminate specific types of data redundancy and dependency, leading to a more organized and efficient database structure.
+
+Q9. What are joins and why do we need them?
+A9. Joins in a database management system are operations that combine data from two or more tables based on a related column between them. We need joins to retrieve data from multiple tables simultaneously and establish relationships between related tables, enabling complex queries and data analysis.
+
+Q10. Explain the different types of joins.
+A10. The different types of joins include INNER JOIN, LEFT JOIN (or LEFT OUTER JOIN), RIGHT JOIN (or RIGHT OUTER JOIN), and FULL JOIN (or FULL OUTER JOIN). INNER JOIN returns only the rows that have matching values in both tables, LEFT JOIN returns all rows from the left table and matching rows from the right table, RIGHT JOIN returns all rows from the right table and matching rows from the left table, and FULL JOIN returns all rows from both tables, combining non-matching rows with NULL values where necessary.
