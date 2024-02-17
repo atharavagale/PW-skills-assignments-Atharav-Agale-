@@ -1,0 +1,10 @@
+Atharav Agale
+semantics assignments
+Q: What are the new things introduced in HTML5?
+A: A: HTML5 introduced several new features and enhancements, including semantic elements, multimedia support with <audio> and <video> tags, native support for vector graphics with <svg>, the canvas element for dynamic graphics and animations, local storage options like localStorage and sessionStorage, and improved form input types and attributes.
+
+Q: What are semantic tags? Give a couple of examples.
+A: A: Semantic tags in HTML5 are elements that convey meaning beyond their appearance or style. They provide context to the content they enclose, aiding in accessibility and search engine optimization. Examples include <header> for introductory content, <footer> for closing content, <article> for standalone content, <nav> for navigation links, and <section> for thematic grouping.
+
+Q: List some uses of semantic tags.
+A: A: Semantic tags are useful for structuring HTML documents in a meaningful way, improving accessibility, SEO, and code readability. They help screen readers and search engines understand the purpose and relationship of different parts of the webpage. Semantic tags also facilitate easier styling and maintenance of the website by providing clear delineations between sections like headers, footers, navigation menus, articles, and sidebars.
