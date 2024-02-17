@@ -1,0 +1,10 @@
+Atharav Agale
+assignment-Starting with css
+Q: What is CSS and why use it?
+A: CSS stands for Cascading Style Sheets. It is a style sheet language used to describe the presentation of a document written in HTML. CSS allows web developers to control the layout, colors, fonts, and other visual aspects of a webpage, enhancing its aesthetics and user experience.
+
+Q: What are the different ways to bring CSS into an HTML file?
+A: A: CSS can be brought into an HTML file using three main methods: inline styles, internal stylesheets, and external stylesheets. Inline styles are applied directly to HTML elements using the style attribute. Internal stylesheets are defined within the <style> tags in the <head> section of an HTML document. External stylesheets are separate CSS files linked to HTML files using the <link> tag.
+
+Q: What do you mean by specificity in CSS?
+A: A: Specificity in CSS refers to the rules that determine which styles are applied to an HTML element when conflicting styles exist. It is based on the selector's specificity, which is determined by the number and types of selectors used. For example, styles defined with more specific selectors (e.g., IDs) override styles defined with less specific selectors (e.g., classes or elements). Specificity helps browsers determine which styles take precedence and ensures predictable styling behavior.
